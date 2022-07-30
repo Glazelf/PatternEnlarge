@@ -1,0 +1,9 @@
+{
+  "name": "patternenlarge",
+  "version": "1.0.0",
+  "description": "Enlarge patterns",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.9.3"
+  }
+}
