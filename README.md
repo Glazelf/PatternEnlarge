@@ -2,6 +2,7 @@
 Script to enlarge patterns programmatically as if they were a pattern. I couldn't find a solid, free way to do this online so decided to make it myself.
 
 ## Usage
+Run `npm install`.  
 Run `node .`.  
 Supply filename when asked, including extension.  
 Pray it works.  
