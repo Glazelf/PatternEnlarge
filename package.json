@@ -4,6 +4,6 @@
   "description": "Enlarge patterns",
   "main": "index.js",
   "dependencies": {
-    "canvas": "^2.10.0"
+    "canvas": "^2.10.1"
   }
 }
